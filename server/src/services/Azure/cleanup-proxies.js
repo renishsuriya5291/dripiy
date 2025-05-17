@@ -1,13 +1,14 @@
 // scripts/cleanup-proxies.js
-require('dotenv').config();
 const mongoose = require('mongoose');
 const Proxy = require('../../models/Proxy'); // Assuming you have a Proxy model defined
 
+const path = require("path");
+require('dotenv').config({ path: path.resolve(__dirname, '../../../.env') });
 
 async function cleanupProxies() {
   try {
     console.log('Connecting to MongoDB...');
-    await mongoose.connect("mongodb+srv://renishsuriya1441:1kxLj1jGx4gyhQ1B@cluster0.0qq5u.mongodb.net/dripify-clone", {
+    await mongoose.connect(process.env.MONGO_URI, {
       useNewUrlParser: true,
       useUnifiedTopology: true
     });
