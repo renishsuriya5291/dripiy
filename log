@@ -1,0 +1,103 @@
+ Error processing message from queue campaign-actions: read ECONNRESET
+: Error processing message from queue campaign-actions: read ECONNRESET
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error getting LinkedIn account for user 6827213f02c30b76ddaf52e1: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net     
+: Error executing LinkedIn action 6828293bb59617a54cee642f: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error getting LinkedIn account for user 6827213f02c30b76ddaf52e1: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net     
+: Error executing LinkedIn action 6828293db59617a54cee643b: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error getting LinkedIn account for user 6827213f02c30b76ddaf52e1: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net     
+: Error executing LinkedIn action 6828293db59617a54cee6438: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Fetching up to 5 pending LinkedIn actions
+: Error in viewProfile for https://www.linkedin.com/in/huafeng-jin: Action timed out after 300000ms
+: Error executing LinkedIn action 6828293bb59617a54cee642f: Action timed out after 300000ms
+: Error in viewProfile for https://www.linkedin.com/in/landry-e: Action timed out after 300000ms
+: Error executing LinkedIn action 6828293cb59617a54cee6432: Action timed out after 300000ms
+: Error in viewProfile for https://www.linkedin.com/in/thanh-ta: Action timed out after 300000ms
+: Error executing LinkedIn action 6828293cb59617a54cee6435: Action timed out after 300000ms
+: Error in viewProfile for https://www.linkedin.com/in/kamil-jackiewicz: Action timed out after 300000ms
+: Error executing LinkedIn action 6828293db59617a54cee6438: Action timed out after 300000ms
+: Error in viewProfile for https://www.linkedin.com/in/leonardo-alexandre-lucena-melo-msc-drhc: Action timed out after 300000ms      
+: Error executing LinkedIn action 6828293db59617a54cee643b: Action timed out after 300000ms
+: Error in viewProfile for https://www.linkedin.com/in/huafeng-jin: Action timed out after 300000ms
+: Error executing LinkedIn action 6828293bb59617a54cee642f: Action timed out after 300000ms
+: Error in viewProfile for https://www.linkedin.com/in/landry-e: Action timed out after 300000ms
+: Error executing LinkedIn action 6828293cb59617a54cee6432: Action timed out after 300000ms
+: Error in viewProfile for https://www.linkedin.com/in/thanh-ta: Action timed out after 300000ms
+: Error executing LinkedIn action 6828293cb59617a54cee6435: Action timed out after 300000ms
+: Error in viewProfile for https://www.linkedin.com/in/kamil-jackiewicz: Action timed out after 300000ms
+: Error executing LinkedIn action 6828293db59617a54cee6438: Action timed out after 300000ms
+: Error in viewProfile for https://www.linkedin.com/in/leonardo-alexandre-lucena-melo-msc-drhc: Action timed out after 300000ms      
+: Error executing LinkedIn action 6828293db59617a54cee643b: Action timed out after 300000ms
+: Error in viewProfile for https://www.linkedin.com/in/thiago-menezes-1785a397?sectionType=content_collections: Action timed out after 300000ms
+: Error executing LinkedIn action 6828293eb59617a54cee643e: Action timed out after 300000ms
+: Error in viewProfile for https://www.linkedin.com/in/matthew-schnittker: Action timed out after 300000ms
+: Error executing LinkedIn action 6828293eb59617a54cee6441: Action timed out after 300000ms
+: Error in viewProfile for https://www.linkedin.com/in/frank-moesle: Action timed out after 300000ms
+: Error executing LinkedIn action 6828293eb59617a54cee6444: Action timed out after 300000ms
+: Error processing message from queue campaign-actions: read ECONNRESET
+: Error in viewProfile for https://www.linkedin.com/in/juan-sebastian-palacios-cortes-7a01b4102?sectionType=content_collections: Action timed out after 300000ms
+: Error executing LinkedIn action 6828293fb59617a54cee6447: Action timed out after 300000ms
+: Error in viewProfile for https://www.linkedin.com/in/ricardo-hassan: Action timed out after 300000ms
+: Error executing LinkedIn action 6828293fb59617a54cee644a: Action timed out after 300000ms
+: Error in viewProfile for https://www.linkedin.com/in/mukesh-kumar-sharma: Action timed out after 300000ms
+: Error executing LinkedIn action 68282940b59617a54cee644d: Action timed out after 300000ms
+: Error in viewProfile for https://www.linkedin.com/in/sudeepta-das?sectionType=content_collections: Action timed out after 300000ms 
+: Error executing LinkedIn action 68282940b59617a54cee6450: Action timed out after 300000ms
+: Error in viewProfile for https://www.linkedin.com/in/ragu-devaraj: Action timed out after 300000ms
+: Error executing LinkedIn action 68282941b59617a54cee6453: Action timed out after 300000ms
+: Error in viewProfile for https://www.linkedin.com/in/abhishek-gupta: Action timed out after 300000ms
+: Error executing LinkedIn action 68282942b59617a54cee6459: Action timed out after 300000ms
+: Error in viewProfile for https://www.linkedin.com/in/srinivasanpoornima?sectionType=content_collections: Action timed out after 300000ms
+: Error executing LinkedIn action 68282941b59617a54cee6456: Action timed out after 300000ms
+: Error in viewProfile for https://www.linkedin.com/in/nitin-kulkarni: Action timed out after 300000ms
+: Error executing LinkedIn action 68282942b59617a54cee645c: Action timed out after 300000ms
+: Error in viewProfile for https://www.linkedin.com/in/harmeet-singh-kamboj: Action timed out after 300000ms
+: Error executing LinkedIn action 68282943b59617a54cee645f: Action timed out after 300000ms
+: Error in viewProfile for https://www.linkedin.com/in/jugal-joshi: Action timed out after 300000ms
+: Error executing LinkedIn action 68282943b59617a54cee6462: Action timed out after 300000ms
+: Error in viewProfile for https://www.linkedin.com/in/durgesh-songire: Action timed out after 300000ms
+: Error executing LinkedIn action 68282944b59617a54cee6465: Action timed out after 300000ms
+: Error in viewProfile for https://www.linkedin.com/in/ankit-agrawal: Action timed out after 300000ms
+: Error executing LinkedIn action 68282945b59617a54cee6468: Action timed out after 300000ms
+: Error processing LinkedIn actions batch: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error in LinkedIn action processing: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error processing message from queue campaign-actions: getaddrinfo ENOTFOUND cluster0-shard-00-00.0qq5u.mongodb.net
+: Error pr
